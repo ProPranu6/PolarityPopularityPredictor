@@ -1,5 +1,5 @@
 # PolarityPopularityPredictor
- > ![Tux, the Linux mascot](/UROPTitlePage.png)
+ > ![Tux, the Linux mascot](/PositiveNewsExtractingSystemTitlePage.png)
  >
  >
 > ## Our Objective
@@ -79,5 +79,5 @@
 >> chance of being recommending whereas score closer to 0 has least possible
 >> chance of being recommended. 
 > ## Flowchart of the Algorithm
->> ![Tux, the Linux mascot](/UROPTitlePage.png)
+>> ![Tux, the Linux mascot](/PositiveNewsExtractingSystemFlowChart.png)
 >
