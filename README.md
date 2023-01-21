@@ -80,4 +80,4 @@
 >> chance of being recommended. 
 > ## Flowchart of the Algorithm
 >> ![Tux, the Linux mascot](/PositiveNewsExtractingSystemFlowChart.png)
->
+> Link to the Paper : [InPending Paper](https://www.overleaf.com/read/fmqfqpxgxrnx)
