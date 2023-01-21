@@ -74,6 +74,7 @@
 >
 >> ### Recomendation Score Calculation
 >>> ***RECOMMENDATION SCORE = 0.7(POLARITY SCORE) + 0.3(POPULARITY SCORE)***
+>>
 >> News with Recommendation Score which is closer to 1 has most possible
 >> chance of being recommending whereas score closer to 0 has least possible
 >> chance of being recommended. 
